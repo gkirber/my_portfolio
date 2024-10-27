@@ -78,7 +78,7 @@ body,
 button,
 input,
 textarea {
-    font-family: var(--body-font);
+    font-family: var(--body-font), sans-serif;
     font-size: var(--normal-font-size);
 }
 
